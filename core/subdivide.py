@@ -2,7 +2,6 @@ from __future__ import annotations
 from custom_types import *
 from core.mesh_ds import MeshDS
 from utils import mesh_utils
-from constants import EPSILON
 
 
 class SubdivideMesh:
